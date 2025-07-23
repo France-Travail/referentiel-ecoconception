@@ -47,7 +47,7 @@ Le présent référentiel est organisé en 5 chapitres correspondant chacun aux 
 
 Chaque bonne pratique est présentée sous la forme d’une fiche synthétique dont la structure est toujours identique.
 
-![004 lazy loading](img/intro_004_lazy_loading.jpg)
+![004 lazy loading](img/intro_004_lazy_loading.png)
 
 ## Licence
 Licence GNU de documentation libre
