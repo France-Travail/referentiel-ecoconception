@@ -71,3 +71,10 @@ Voir le document CODE_OF_CONDUCT.md pour plus de précision
 - Verifier votre contribution avant de la soumettre.
 
 Voir le document CONTRIBUTING.md pour plus de précision
+
+## Repositories connexes
+Ce Référentiel d'écoconceptionest complété par différents éléments mis par France Travail à disposition de la communauté :
+- le kit de sensibilisation à la conception écoresponsable <https://github.com/France-Travail/sensibilisation-conception-responsable>
+- la formation à l'écoconception destinées aux équipes techniques <https://github.com/France-Travail/formation-ecoconception-dev/>,
+- la formation destinée à l'écoconception destinée aux équipes produit,
+- le starterkit d'écoconception destiné aux UX/UI pour se lancer dans la démarche <https://github.com/France-Travail/starter-kit-ecoconception>.
